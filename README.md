@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Stanislav👋
 ### QA Engineer | Mobile & Web Quality Assurance
 
 Passionate about finding bugs before your users do. I specialize in end-to-end testing of mobile and web applications, ensuring high performance and a seamless user experience.
@@ -34,9 +34,9 @@ Passionate about finding bugs before your users do. I specialize in end-to-end t
 ---
 
 ## 📫 Connect with me:
-* **LinkedIn:** [Your Profile Link]
-* **Telegram:** [@YourHandle]
-* **Email:** [your.email@example.com]
+* **LinkedIn:** linkedin.com/in/aezakmuii
+* **Telegram:** t.me/aezakmuii
+* **Email:** aezakmuii15@gmail.com
 
 ---
 *“Quality is not an act, it is a habit.”*
